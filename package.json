@@ -1,0 +1,15 @@
+{
+  "name": "high-load-applications-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:client": "npx http-server ./",
+    "test:server": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pooooz/high-load-applications-development.git"
+  },
+  "dependencies": {}
+}
